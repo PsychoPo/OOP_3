@@ -1,0 +1,15 @@
+C:\Users\whoami\VS Code\OOP\OOP_3\bin\Debug\net7.0\OOP_3.exe
+C:\Users\whoami\VS Code\OOP\OOP_3\bin\Debug\net7.0\OOP_3.deps.json
+C:\Users\whoami\VS Code\OOP\OOP_3\bin\Debug\net7.0\OOP_3.runtimeconfig.json
+C:\Users\whoami\VS Code\OOP\OOP_3\bin\Debug\net7.0\OOP_3.dll
+C:\Users\whoami\VS Code\OOP\OOP_3\bin\Debug\net7.0\OOP_3.pdb
+C:\Users\whoami\VS Code\OOP\OOP_3\obj\Debug\net7.0\OOP_3.csproj.AssemblyReference.cache
+C:\Users\whoami\VS Code\OOP\OOP_3\obj\Debug\net7.0\OOP_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whoami\VS Code\OOP\OOP_3\obj\Debug\net7.0\OOP_3.AssemblyInfoInputs.cache
+C:\Users\whoami\VS Code\OOP\OOP_3\obj\Debug\net7.0\OOP_3.AssemblyInfo.cs
+C:\Users\whoami\VS Code\OOP\OOP_3\obj\Debug\net7.0\OOP_3.csproj.CoreCompileInputs.cache
+C:\Users\whoami\VS Code\OOP\OOP_3\obj\Debug\net7.0\OOP_3.dll
+C:\Users\whoami\VS Code\OOP\OOP_3\obj\Debug\net7.0\refint\OOP_3.dll
+C:\Users\whoami\VS Code\OOP\OOP_3\obj\Debug\net7.0\OOP_3.pdb
+C:\Users\whoami\VS Code\OOP\OOP_3\obj\Debug\net7.0\OOP_3.genruntimeconfig.cache
+C:\Users\whoami\VS Code\OOP\OOP_3\obj\Debug\net7.0\ref\OOP_3.dll
